@@ -1731,7 +1731,7 @@ ua-pki 1 3 6 1 2  : dstu4145Withdstu7564-256-оnb                : DSTU 4145-200
 ua-pki 1 3 4      : dhSinglePass-cofactorDH-gost34311kdf-scheme : Cofactor ECDH with DSTU GOST 34.311-95
 ua-pki 1 3 5      : dhSinglePass-stdDH-gost34311kdf-scheme      : ECDH with DSTU GOST 34.311-95
 ua-pki 1 3 7      : dhSinglePass-cofactorDH-dstu7564kdf-scheme  : Cofactor ECDH with DSTU 7564-2014
-ua-pki 1 3 8      : dhSinglePass-stdDH-dstu7564kdf-scheme       : ECDH with DSTU DSTU 7564-2014
+ua-pki 1 3 8      : dhSinglePass-stdDH-dstu7564kdf-scheme       : ECDH with DSTU 7564-2014
 
 # NID for AES-SIV
                             : AES-128-SIV  : aes-128-siv
