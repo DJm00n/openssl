@@ -1712,8 +1712,6 @@ id-pkinit 5                     : pkInitKDC             : Signing KDC Response
                             : modp_8192
 
 # OIDs for Ukrainian PKI (https://zakon.rada.gov.ua/go/z1273-20)
-
-# DSTU OIDs
 member-body 804   : ISO-UA
 ISO-UA 2 1 1 1    : ua-pki
 
